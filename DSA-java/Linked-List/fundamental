@@ -5,7 +5,7 @@
 
 1. A linked list is a linear data structure that stores elements in non-contiguous memory locations.
 2. Each element in a linked list is called a node.
-3. Each node contains two parts:
+3. Each node contains two parts:/
   - **Data**: The actual value stored in the node.
   - **Next**: A reference (or pointer) to the next node in the list.4.
 4. The first node is called the **head**. It is a special node but not a keyword.
